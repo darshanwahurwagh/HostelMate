@@ -1,6 +1,6 @@
-## Live : https://darshanwahurwagh.github.io/HostelMate/
+### Live : https://darshanwahurwagh.github.io/HostelMate/
 
-# 🏨HostelMate
+# HostelMate
 
 HostelMate is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application designed to simplify and automate hostel management operations for educational institutions. The platform provides separate dashboards for administrators and students, enabling efficient management of rooms, attendance, complaints, fees, and hostel services.
 
