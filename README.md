@@ -1,4 +1,4 @@
-# Live : https://darshanwahurwagh.github.io/HostelMate/
+## Live : https://darshanwahurwagh.github.io/HostelMate/
 
 # 🏨HostelMate
 
@@ -65,8 +65,6 @@ HostelMate is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web app
 * Mobile Friendly UI
 * Tablet Compatible
 * Desktop Optimized Dashboard
-
-## 🌐Live Deployment
 
 ## Project Objective
 The primary objective of HostelMate is to reduce manual paperwork, improve transparency, streamline hostel operations, and provide a seamless digital experience for both hostel administrators and students.
